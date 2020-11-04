@@ -1,0 +1,1 @@
+springboot项目一旦设置了component-scan,那就会覆盖默认的配置
