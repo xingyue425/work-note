@@ -1,0 +1,2 @@
+建立一个体系是web程序   一个是定时任务     一个是service    一个是dao  分层体系 freeleaf
+另外一套是start体系    这些作为支撑体系   kingstone
